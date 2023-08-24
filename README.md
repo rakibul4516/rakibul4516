@@ -4,8 +4,8 @@ Hello!I can write unique logics and advanced code. that's why I am here to amaze
 
 Skills:  DJANGO / PYTHON / JAVASCRIPT / BOOTSTRAP / TAILWIND / HTML / CSS
 
-- 🔭 I’m currently working on Backend development 
-- 🌱 I’m currently learning Machine Learning 
+- 🔭 I’m currently working on Front end and Backend development 
+- 🌱 I’m currently learning Advance Full Stack Development
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Front End and Backend development 
 
