@@ -2,7 +2,7 @@
 #### I am a Web App Developer
 Hello!I can write unique logics and advanced code. that's why I am here to amaze the world by my work . I am proud in offering great quality work and fantastic customer support for my clients. I look forward to working with you! Let us make wonders together in this field of Web Development. Keep exploring.
 
-Skills:  DJANGO / PYTHON / JAVASCRIPT / BOOTSTRAP / TAILWIND / HTML / CSS
+Skills:  MONGODB / EXPRESS / REACT / NODE / JAVASCRIPT / DJANGO / PYTHON / BOOTSTRAP / TAILWIND / HTML / CSS
 
 - 🔭 I’m currently working on Front end and Backend development 
 - 🌱 I’m currently learning Advance Full Stack Development
