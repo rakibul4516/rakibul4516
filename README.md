@@ -57,6 +57,54 @@
 ![](https://github-readme-stats.vercel.app/api?username=rakibul4516&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul4516&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibul4516&theme=default)
 
----
-[![](https://visitcount.itsvg.in/api?id=rakibul4516&icon=7&color=6)](https://visitcount.itsvg.in)
+<h3 align="left">🖥 Projects </h3><hr>
+<h3 align="left">Quick-Del - A parcel management site </h3>  <a href="" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/Rapid-Parcel-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/Rapid-Parcel-Server.git" > Server Side Code </a>  <br>
+<h4> Features of the project !</h4>
+
+-  User can book a parcel
+-  Users can see all their booked parcels and filter them by status
+-  Users can perform (cancel, update, payment, review) on their booked parcel
+-  Users can see the top delivery man section from the homepage
+-  User Registration and Profiles and update profile feature
+-  The delivery man will be able to see all his delivery lists
+-  The delivery man can (cancel, deliver) his parcels and see the location of those parcel
+-  The delivery man can see the reviews received
+-  Admin can see parcels statistics 
+-  The admin can view all parcels, manage them, and filter them based on the request date
+-  The admin can see all users and, if desired, change their roles (delivery man/ admin)
+-  The admin can see all delivery men and view their (total delivered, average review) statistics
+
+  <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
+node js, express js, mongoose, JWT</p> <hr>
+
+<h3 align="left">SavorSpot Cafe - A restruarent management site </h3>  <a href="https://savorspot-cafe.web.app/" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe---Server.git" > Server Side Code </a>  <br>
+<h4> Features of the project !</h4>
+
+-  You can add a new food from the 'Add Food' section.
+-  You will be able to see all the food you added in the 'My added food' section.
+-  You can update the full details of your added food.
+-  You will be able to see all the food you ordered in the 'My Ordered Foods' section and delete single food"
+-  You can see the top selling foods section from home page.
+-  You can view the full details of each food.
+-  If you want, you can see any food by searching.
+-  You can view foods sorted by price & filtered by category.
+-  You can select the desired quantity of food to place an order.
+-  User Registration and Profiles.
+  
+  <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
+node js, express js, mongodb, Jwt</p> <hr>
+
+<h3 align="left"> BrandShop </h3>  <a href="https://brandshop-ece48.web.app" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/BrandShop--Client.git" > Client Site Code </a>  <br> 
+<h4> Features of the project !</h4>
+
+-  You can enable Dark Mode.
+-  You can add many products to the Cart.
+-  You can add a new product from the 'Add Product' section.
+-  You can update the details of products.
+-  You can see the latest discount offers on the home page.
+-  User Registration and Profiles.
+-  You can view the specification of each product.
+
+  <h5> Technology :</h5> <p>React, tailwind css, firebase, html</p>
