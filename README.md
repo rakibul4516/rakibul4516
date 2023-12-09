@@ -55,7 +55,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rakibul4516&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibul4516&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakibul4516&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakibul4516&theme=default)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibul4516&theme=default)
 
