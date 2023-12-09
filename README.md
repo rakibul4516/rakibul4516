@@ -1,7 +1,15 @@
 ![logo](https://github.com/rakibul4516/rakibul4516/blob/main/banner.png.png)
 # 💫 About Me:
 🚀 As a seasoned web developer, I bring a wealth of experience and a track record of excellence in web development. I specialize in both front-end and back-end development, consistently delivering high-quality, performance-driven websites and web applications. Proven track record of delivering highquality web solutions, optimizing performance, and ensuring web security.<br><br>Proficient in key programming languages, frameworks, and best practices. Adept at problem-solving and committed to continuous learning. Strong communication and project management skills.<br>
+- I’m currently working on [Quick-Del](https://quick-del.web.app)
 
+- 🌱 I’m currently learning **MERN Stack Development**
+
+- 📫 How to reach me **mdrakibulislam4516@gmail.com**
+
+- ⚡ Fun fact **I think i am funny and Curious 😛**
+
+<h3 align="left">Connect with me:</h3>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/rkrakib4516)
