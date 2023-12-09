@@ -60,7 +60,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakibul4516&theme=default)
 
 <h3 align="left">🖥 Projects </h3><hr>
-<h3 align="left">Quick-Del - A parcel management site </h3>  <a href="" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/Rapid-Parcel-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/Rapid-Parcel-Server.git" > Server Side Code </a>  <br>
+<h3 align="left">Quick-Del - A parcel management site </h3>  <a href="https://quick-del.web.app" >Live Site </a>  <br>  <a href="https://github.com/rakibul4516/quick-del-client" > Client Site Code </a>  <br>  <a href="https://github.com/rakibul4516/quick-del-server" > Server Side Code </a>  <br>
 <h4> Features of the project !</h4>
 
 -  User can book a parcel
@@ -77,9 +77,9 @@
 -  The admin can see all delivery men and view their (total delivered, average review) statistics
 
   <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
-node js, express js, mongoose, JWT</p> <hr>
+node js, express js, JWT</p> <hr>
 
-<h3 align="left">SavorSpot Cafe - A restruarent management site </h3>  <a href="https://savorspot-cafe.web.app/" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe-Client.git" > Client Site Code </a>  <br>  <a href="https://github.com/mohadeb550/SavorSpot-Cafe---Server.git" > Server Side Code </a>  <br>
+<h3 align="left">Dine-On - A restruarent management site </h3>  <a href="https://dineon-aa210.web.app" >Live Site </a>  <br>  <a href="https://github.com/rakibul4516/dine-on-client-side" > Client Site Code </a>  <br>  <a href="https://github.com/rakibul4516/dine-on-server-side" > Server Side Code </a>  <br>
 <h4> Features of the project !</h4>
 
 -  You can add a new food from the 'Add Food' section.
@@ -96,7 +96,7 @@ node js, express js, mongoose, JWT</p> <hr>
   <h5> Technology :</h5> <p>React, tailwind css, firebase , axios, tanstack query,
 node js, express js, mongodb, Jwt</p> <hr>
 
-<h3 align="left"> BrandShop </h3>  <a href="https://brandshop-ece48.web.app" >Live Site </a>  <br>  <a href="https://github.com/mohadeb550/BrandShop--Client.git" > Client Site Code </a>  <br> 
+<h3 align="left"> Butico -A Beauty and Cosmetics Website </h3>  <a href="https://butico-4f68f.web.app" >Live Site </a>  <br>  <a href="https://github.com/rakibul4516/butico-client-side" > Client Site Code </a>  <br> 
 <h4> Features of the project !</h4>
 
 -  You can enable Dark Mode.
